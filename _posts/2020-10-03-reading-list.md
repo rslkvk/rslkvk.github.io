@@ -2,7 +2,7 @@
 layout: post
 title: Books..
 description: This is my personal Booklist for my career. Most of this books are known. But for me, they have fundamental knowledge and can be read over and over with different perspective. 
-tags: [css]
+tags: [java, books]
 ---
 
 I will make the book's public which I have read or want to read. This book's are for my professional roadmap <must haves> (for me): 
@@ -18,7 +18,7 @@ I will make the book's public which I have read or want to read. This book's are
 ---- 
 Test of Code Highlighting: 
 
-```JAVA
+```java
 public static void main(String args[]) { 
   System.out.println("Hello World"); 
 }
