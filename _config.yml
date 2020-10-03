@@ -1,22 +1,22 @@
-site: Sidey
-url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+site: Resul Kavakli
+url: https://rslkvk.github.io
+title: Resul Kavakli
+description: Thoughts and notes about software engineering.
 twitter:
-  username: #yourusername
+  username: rlskvk
   card: summary
-  creator: #yourusername
+  creator: rlskvk
 author:
-  twitter: #yourusername
-  name: #yourusername
+  twitter: rslkvk
+  name: rslkvk
   avatar:
-  email: #youremail
-  url: #yoururl
+  email: resul[dot]kavakli[at]gmail[dot]com
+  url: https://resulkavakli.de
 permalink: pretty
 
 baseurl: ""
 
-highlighter: none
+highlighter: Rouge
 
 exclude:
   - .jekyll-cache
