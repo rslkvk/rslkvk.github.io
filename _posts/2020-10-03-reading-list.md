@@ -19,7 +19,7 @@ I will make the book's public which I have read or want to read. This book's are
 Test of Code Highlighting: 
 
 ```java
-public static void main(String args[]) { 
-  System.out.println("Hello World"); 
+public static void main(String args[]) {
+  System.out.println("Hello World");
 }
 ```
