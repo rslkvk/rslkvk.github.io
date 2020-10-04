@@ -14,7 +14,7 @@ author:
   url: https://resulkavakli.de
 permalink: pretty
 
-baseurl: ""
+baseurl: "/about"
 
 highlighter: Rouge
 
