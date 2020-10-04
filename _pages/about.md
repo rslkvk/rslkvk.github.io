@@ -5,12 +5,16 @@ title: About
 
 Hi, 
 
-I'm **Resul**. I work as a software developer and mostly with **Java** and I think web-technologies are also not to be forgotten. The complexity *(for me)* of the web is for me better to handle with **Angular** and **TypeScript**.
+I'm **Resul**. I work as a software developer and mostly with **Java** and **Backend-Technologies**. I think web-technologies are also not to be forgotten. The complexity *(from my view)* of the web is for me better to handle with **Angular** and **TypeScript**.
 
-On this website I will write down some tricky things I encounter in my daily work and other sideprojects *(when I get around to it again)*. It should serve as a notebook for me. I would be even more pleased if it would also help for you.
+On this website I will write down some tricky things I encounter in my daily work and other sideprojects *(when I get around to it again)*. It should serve as a notebook for me. I would be even more pleased if they were helpful tips for you too.
+
+[LinkedIn](https://linkedin.com/in/rslkvk)
+[Github](https://github.com/rslkvk)
+[Twitter](https://twitter.com/rslkvk)
 
 ---
-###### Here you can search for some topics: 
+#### Here you can search for some topics: 
 
 
 <style>
