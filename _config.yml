@@ -1,7 +1,7 @@
 site: Resul Kavakli
 url: https://rslkvk.github.io
 title: Resul Kavakli
-description: Thoughts and notes about software engineering.
+description: thoughts and notes about software engineering.
 twitter:
   username: rlskvk
   card: summary
@@ -14,7 +14,7 @@ author:
   url: https://resulkavakli.de
 permalink: pretty
 
-baseurl: "/about"
+baseurl: ""
 
 highlighter: Rouge
 

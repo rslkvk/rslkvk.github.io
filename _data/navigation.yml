@@ -1,8 +1,8 @@
 links:
 - title: About
-  url: /about
-- title: Writing
   url: /
+- title: Writing
+  url: /writing
 - title: Search
   url: /search
 
