@@ -15,7 +15,7 @@ Alice -> Bob: Another authentication Request
 Alice <-- Bob: Another authentication Response
 @enduml
 
----- 
+---
 Test of Code Highlighting: 
 
 ```java
