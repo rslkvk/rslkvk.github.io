@@ -3,9 +3,7 @@ layout: page
 title: About
 ---
 
-Hi, 
-
-I'm **Resul**. I work as a software developer and mostly in the Backend with **Java**. I think web technologies are also not to be forgotten. The complexity *(from my view)* of the web is for me better to handle with **Angular** and **TypeScript**.
+I work as a software developer and mostly in the Backend with **Java**. I think web technologies are also not to be forgotten. The complexity *(from my view)* of the web is for me better to handle with **Angular** and **TypeScript**.
 
 On this website I will write down some tricky things I encounter in my daily work and other sideprojects *(when I get around to it again)*. It should serve as a notebook for me. I would be even more pleased if they were helpful tips for you too.
 
