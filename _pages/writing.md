@@ -1,6 +1,5 @@
 ---
 layout: default
-redirect_to: site.url/about
 ---
 
 <section class="posts">
@@ -10,4 +9,3 @@ redirect_to: site.url/about
 {% endfor %}
 </ul>
 </section>
-
