@@ -1,3 +1,10 @@
+---
+layout: post
+title: How to use Spring Bean with @Autowired in a Apache Camel Predicate
+description: How to use Spring Bean with @Autowired in a Apache Camel Predicate. It's part 1 of the Apache Camel knowledge series
+tags: [java, apache camel, spring]
+---
+
 # Using @Autowired in a Predicate - Apache Ignite
 
 If you have to inject a bean via `@Autowired` within a Camel **Predicate** then you probably may get **`CannotLoadBeanClassException`** Exception from Spring on server startup. 
