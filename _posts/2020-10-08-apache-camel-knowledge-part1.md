@@ -79,4 +79,4 @@ public class myRouteBuilder extends RouteBuilder { 
 }
 ```
 
-> P.S. That's just some Code Snippets. You can't compile & run it.
+> P.S. The code above are just some code snippets. You can't compile & run it.
