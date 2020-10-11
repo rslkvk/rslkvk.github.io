@@ -8,7 +8,7 @@ In this [Article](https://www.lightercapital.com/blog/causes-of-organizational-s
 
 After that, I thought a while about the complex topic and the aspect of human being in that whole process. In times of Digitalization it is unalterable to build open-minded teams. The idea of open-mindness should be accepted by the management down to the smallest team member. It's also important to follow the same organizational goals.
 
-> Internal communicating has never been more important. 
+> Internal communication has never been more important. 
 
 The companies have different types of competition, that they have to deal with. In addition to the technological change, they must expand their capabilities. The Teams in an organization must think outside a given silo. They have to establish a culture of continuous knowledge building and experience exchange. Building Teams with T-shaped skills are essential. 
 
