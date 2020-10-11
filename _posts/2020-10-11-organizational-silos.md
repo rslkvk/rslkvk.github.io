@@ -4,8 +4,6 @@ title: Organizational silos - why? And how to prevent it?
 description: Based on a blog serie, I will share my ideas about silos 
 tags: [organization, communication, business, team building]
 ---
-# Organizational silos: why? and how to prevent it? 
-
 In this [Article](https://www.lightercapital.com/blog/causes-of-organizational-silos/) I read about organizational silos - what? why? and how to prevent it? 
 
 After that, I thought a while about the complex topic and the aspect of human being in that whole process. In times of Digitalization it is unalterable to build open-minded teams. The idea of open-mindness should be accepted by the management down to the smallest team member. It's also important to follow the same organizational goals.
