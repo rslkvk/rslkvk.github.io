@@ -2,7 +2,7 @@
 layout: post
 title: Organizational silos - why? And how to prevent it? 
 description: Based on a blog serie, I will share my ideas about silos 
-tags: [organization, communication, business, team building]
+tags: [agile, organization, communication, team building]
 ---
 In this [Article](https://www.lightercapital.com/blog/causes-of-organizational-silos/) I read about organizational silos - what? why? and how to prevent it? 
 
