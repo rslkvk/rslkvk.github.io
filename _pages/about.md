@@ -3,12 +3,15 @@ layout: page
 title: About
 ---
 
-I'm a software engineer and work mostly in the backend with **Java**. I think web technologies are also not to be forgotten. The complexity *(from my view)* of the web is for me better to handle with **Angular** and **TypeScript**.
+I'm a dedicated software engineer with a passion for building scalable, efficient solutions that drive business growth and streamline user experiences. With a background in both backend and frontend development, I leverage expertise in languages like Kotlin and frameworks like Spring Boot and Angular to deliver robust, user-centered applications.
 
-On this website I will write down some tricky things I encounter in my daily work and other sideprojects *(when I get around to it again)*. It should serve as a notebook for me. I would be even more pleased if they were helpful tips for you too.
+Throughout my career, I've had the privilege of working on diverse projects ranging from infrastructure improvements to new feature development and system refactoring. I thrive on tackling complex challenges, from managing operational bugs and incidents to optimizing system performance and implementing new requirements. My commitment to continuous learning has equipped me to quickly adapt to new domains, consistently driving quality improvements across cross-functional teams.
+
+In addition to coding, I’m enthusiastic about collaborating with others to enhance documentation, improve reporting, and explore innovative technologies. My approach balances technical excellence with a deep understanding of business needs, making me a well-rounded contributor to any project.
+
+**Connect with me** to discuss technology, software development, and future opportunities in creating impactful digital solutions!
 
 [LinkedIn](https://linkedin.com/in/rslkvk)
-[Github](https://github.com/rslkvk)
 
 ---
 #### Here you can search for some topics: 
