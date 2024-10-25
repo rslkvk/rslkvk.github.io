@@ -1,3 +1,10 @@
+---
+layout: post
+title: Clean Code Serie - Part 1: Encapsulating State - getters vs. fields access 
+description: Deep dive into accessing data  
+tags: [clean code, programming, test, java]
+---
+
 # Clean code series: Encapsulating state in Clean Code: getters vs. fields access
 
 ---
