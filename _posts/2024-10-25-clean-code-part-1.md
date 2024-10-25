@@ -1,9 +1,8 @@
-
 ---
 layout: post
-title: Clean Code Serie - Part 1: Encapsulating State - getters vs. fields access
+title: Clean Code Serie Part 1, Encapsulating State Getters vs. Fields Access
 description: Deep dive into accessing data
-tags: [java, apache camel, spring]
+tags: [java, clean code, spring, testing]
 ---
 
 # Clean code series: Encapsulating state in Clean Code: getters vs. fields access
