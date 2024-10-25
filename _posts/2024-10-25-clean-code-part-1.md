@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: Clean Code Serie - Part 1: Encapsulating State - getters vs. fields access
