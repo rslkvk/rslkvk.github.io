@@ -1,12 +1,8 @@
 ---
 layout: post
-title: Clean Code Serie Part 1, Encapsulating State Getters vs. Fields Access
+title: Clean Code Series - Part 1: Encapsulating State Getters vs. Fields Access
 description: Deep dive into accessing data
 tags: [java, clean code, spring, testing]
----
-
-# Clean code series: Encapsulating state in Clean Code: getters vs. fields access
-
 ---
 
 ### Encapsulating State in Clean Code: When to Use Getters vs. Direct Field Access
