@@ -2,7 +2,7 @@
 layout: post
 title: How to use Spring Bean with @Autowired in a Apache Camel Predicate
 description: How to use Spring Bean with @Autowired in a Apache Camel Predicate. It's part 1 of the Apache Camel knowledge series
-tags: [apache camel]
+tags: [apache_camel]
 ---
 
 # Using @Autowired in a Predicate - Apache Ignite
