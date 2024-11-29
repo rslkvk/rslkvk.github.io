@@ -1,4 +1,9 @@
-# Handling Null in Java: Null Annotations vs `Optional`
+---
+layout: post
+title: Handling Null in Java: Null Annotations vs `Optional`
+description: 
+tags: [java, clean_code, software_design]
+---
 
 `NullPointerException` is one of the most common issues Java developers encounter, often causing headaches in debugging and testing. While `null` is an integral part of Java, managing it effectively is crucial to writing robust and maintainable code. Two primary strategies can help: **null annotations** and **`Optional`**. In this post, we'll dive into these tools, their benefits, and best practices.
 
