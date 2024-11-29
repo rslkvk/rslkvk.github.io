@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Handling Null in Java: Null Annotations vs 'Optional'
+title: Handling Null in Java: Null Annotations vs Optional
 description: 
 tags: [java, clean_code, software_design]
 ---
